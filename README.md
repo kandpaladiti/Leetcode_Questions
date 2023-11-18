@@ -4,3 +4,4 @@
 |:----:|:------:|:-------------------------------------------------------------------------------------------------------------:|
 | 1. | Easy | [**_Two Sum_**](https://leetcode.com/problems/two-sum/) |
 | 2. | Easy | [**_Palindrome Number_**](https://leetcode.com/problems/palindrome-number/) |
+| 3. | Easy | [**_Roman to Integer_**](https://leetcode.com/problems/roman-to-integer/) |
