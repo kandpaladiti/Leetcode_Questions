@@ -7,3 +7,4 @@
 | 3. | Easy | [**_Roman to Integer_**](https://leetcode.com/problems/roman-to-integer/) |
 | 4. | Easy | [**_Longest Common Prefix_**](https://leetcode.com/problems/longest-common-prefix/) |
 | 5. | Easy | [**_Valid Parentheses_**](https://leetcode.com/problems/valid-parentheses/) |
+| 6. | Easy | [**_Merge Two Sorted Lists_**](https://leetcode.com/problems/merge-two-sorted-lists/) |
